@@ -3,3 +3,8 @@ mac应用 使用[aria2GUI](https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&rsv_idx
 [【cmacapps】](https://cmacapps.com/) 
 [【Best-App】](https://github.com/hzlzh/Best-App)
 [【xclient】](http://xclient.info/?t=098a70a236e900d04fa2bb73d093a25aa574663a)
+
+
+brew cask 使用USTC源
+cd "$(brew --repo)"/Library/Taps/homebrew/homebrew-cask
+git remote set-url origin https://mirrors.ustc.edu.cn/homebrew-cask.git

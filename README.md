@@ -8,4 +8,3 @@ mac应用 使用[aria2GUI](https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&rsv_idx
 brew cask 使用USTC源
 cd "$(brew --repo)"/Library/Taps/homebrew/homebrew-cask
 git remote set-url origin https://mirrors.ustc.edu.cn/homebrew-cask.git
-

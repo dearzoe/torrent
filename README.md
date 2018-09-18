@@ -18,3 +18,5 @@ git remote set-url origin https://mirrors.ustc.edu.cn/homebrew-cask.git
 [【ReactDEMO源码】](https://codesandbox.io/s/6n20nrzlxz)
 
 [【animate.css】](https://daneden.github.io/animate.css/)
+
+[【触控栏】](http://julianthayn.com/release-notes)

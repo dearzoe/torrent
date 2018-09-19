@@ -9,6 +9,8 @@ mac应用 使用[aria2GUI](https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&rsv_idx
 [chrome各版本下载地址1](https://www.chromedownloads.net/)
 [chrome各版本下载地址2](https://api.shuax.com/tools/getchrome)
 
+elemiao.cn
+
 brew cask 使用USTC源
 cd "$(brew --repo)"/Library/Taps/homebrew/homebrew-cask
 git remote set-url origin https://mirrors.ustc.edu.cn/homebrew-cask.git

@@ -1,5 +1,5 @@
 # torrent
-mac应用 使用[aria2GUI](https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&rsv_idx=1&tn=95473117_hao_pg&wd=aria2gui&oq=aria2gui&rsv_pq=ff13d9b200012b23&rsv_t=d998Sh0JRC%2F9gmIeiCgRkwbfjVKV7fW9PZP5kBE%2BhssuTw1OW%2BlgmpRgWzuCXKaeVjtBHQ0g&rqlang=cn&rsv_enter=0) 下 载 
+mac应用 使用[aria2GUI](https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&rsv_idx=1&tn=95473117_hao_pg&wd=aria2gui&oq=aria2gui&rsv_pq=ff13d9b200012b23&rsv_t=d998Sh0JRC%2F9gmIeiCgRkwbfjVKV7fW9PZP5kBE%2BhssuTw1OW%2BlgmpRgWzuCXKaeVjtBHQ0g&rqlang=cn&rsv_enter=0) 下载 
 
 [【cmacapps】](https://cmacapps.com/) 
 [【Best-App】](https://github.com/hzlzh/Best-App)

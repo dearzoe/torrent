@@ -28,3 +28,5 @@ git remote set-url origin https://mirrors.ustc.edu.cn/homebrew-cask.git
 [【博客hexo使用方法】](https://hexo.io/zh-cn/docs/writing.html)
 
 [【网页风格不错】](https://githubuniverse.com/)
+
+[【mac最好的种子搜索应用程序】](https://mac.eltima.com/cn/download-manager.html)
